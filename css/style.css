@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(224, 193, 231);
+}
+.Koostisosad {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.Koostisosad-table {
+    border: 1px solid black;
+    margin: 0 auto;
+    margin-left: 20rem;
+}
+
+.Juhend {
+    border: 1px solid black;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.Juhend ol {
+    border: 1px solid red;
+    margin: 0 auto;
+    width: 75%;
+}
